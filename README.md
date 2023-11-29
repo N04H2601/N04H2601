@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**N04H2601/N04H2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Welcome to My GitHub Profile!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 **About Me:**
+- 🚀 I am passionate about cybersecurity and coding.
+- 🔒 I love participating in Capture The Flag (CTF) competitions and sharing my experiences.
+
+🌟 **Projects:**
+- 💻 You'll find a variety of projects I've worked on.
+- 🤖 Each project showcases my skills and creativity in solving real-world problems.
+
+📚 **CTF Writeups:**
+- 🏆 After each CTF event, I write detailed writeups.
+- 📝 These writeups are a great resource for learning new techniques and strategies in cybersecurity.
+
+👥 **Connect with Me:**
+- 🌐 Visit [My Website](https://n04h2601.github.io/) for more about my work.
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/noah-brajtman-565946223/) for collaborations or just to say hi!
+
+---
+
+💡 **Stay Tuned!**
+- ✨ Keep an eye on my profile for updates on exciting new projects and more!
+
+---
+
+<p align="center">
+  <i>Thank you for visiting!</i>
+</p>
