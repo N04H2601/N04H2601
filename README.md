@@ -20,7 +20,7 @@
 
 👥 **Connect with Me:**
 - 🌐 Visit [My Website](https://n04h2601.github.io/) for more about my work.
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/noah-brajtman-565946223/) for collaborations or just to say hi!
+- 📫 Reach out to me on [LinkedIn](https://linkedin.com/in/n04h2601) for collaborations or just to say hi!
 
 ---
 
