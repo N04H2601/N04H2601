@@ -19,7 +19,7 @@
 - 📝 These writeups are a great resource for learning new techniques and strategies in cybersecurity.
 
 👥 **Connect with Me:**
-- 🌐 Visit [My Website](https://n04h2601.github.io/) for more about my work.
+<!-- 🌐 Visit [My Website](https://n04h2601.github.io/) for more about my work. -->
 - 📫 Reach out to me on [LinkedIn](https://linkedin.com/in/n04h2601) for collaborations or just to say hi!
 
 ---
